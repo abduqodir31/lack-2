@@ -1,0 +1,148 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #e5e5e5;
+
+}
+
+.container {
+    width: 1215px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/*  main  */
+.main1 {
+    padding: 78px 0;
+
+}
+
+.main-4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+/*  hero */
+.hero-5 {
+    margin: 25px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    width: 419px;
+    color: #000000;
+    margin: 25px;
+}
+
+.hero-6 {
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    width: 437px;
+    color: #7D7987;
+    margin-bottom: 13px;
+}
+
+.hero-7 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    background: #458FF6;
+    border-radius: 55px;
+    padding: 0 39px;
+    display: inline-block;
+    margin-bottom: 30px;
+
+
+}
+
+/*   service   */
+
+.service {
+    margin-top: 153px;
+}
+
+.service-1 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 26px;
+}
+
+.service-2 {
+    background: #000000;
+    border-radius: 5px;
+    margin: 0 auto;
+    height: 2px;
+    width: 56px;
+    display: block;
+    margin-bottom: 53px;
+
+
+}
+
+.service-3 {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #7D7987;
+    width: 952px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.service-4{
+    background: #FFFFFF;
+    border-radius: 20px;
+  margin: 100px 100px 100px 100px ;
+  display: inline-block;
+  padding: 54px 45px 46px 39px;
+}
+
+.service-7 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.service-8 {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+   
+}
+.tank-1{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    padding: 3px 51px;
+   margin: 0 650px;
+   
+}
+.tank-3{
+    padding: 180px;
+}
